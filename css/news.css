@@ -1,0 +1,18 @@
+.news {
+    background-color: black;
+    padding: 100px 0;
+}
+.news_ul {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    justify-content: space-between;
+}
+img {
+    width: 350px;
+    height: 220px;
+}
+li {
+    color: orange;
+    width: 350px;
+}
